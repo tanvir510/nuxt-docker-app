@@ -1,5 +1,5 @@
 {
-  "name": "shareel-human",
+  "name": "nuxt-js",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,17 +11,13 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.12.0",
     "@nuxtjs/dotenv": "^1.4.1",
-    "@nuxtjs/firebase": "^6.1.1",
     "@nuxtjs/moment": "^1.6.1",
     "@nuxtjs/proxy": "^2.0.1",
     "@nuxtjs/style-resources": "^1.0.0",
-    "chart.js": "^2.9.3",
     "cookie-universal-nuxt": "^2.1.4",
-    "firebase": "^7.18.0",
+    "core-js": "^3.12.1",
     "nuxt": "^2.14.0",
-    "portal-vue": "^2.1.7",
     "universal-cookie": "^4.0.3",
-    "vue-chartjs": "^3.5.1",
     "worker-loader": "^3.0.1"
   },
   "devDependencies": {

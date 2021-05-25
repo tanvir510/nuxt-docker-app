@@ -18,7 +18,7 @@ export default {
       } )
     },
     mounted(){
-      this.fetchName('Shareel admin Panel')
+      this.fetchName('Nuxt Js Project')
     }
 }
 </script>
